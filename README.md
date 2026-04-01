@@ -17,7 +17,7 @@
 
 ## 🚀 Recent Projects
 
-🤖 [nanoclaw-v1.0](https://github.com/ygcahyono/nanoclaw-v1.0)
+### 🤖 [nanoclaw-v1.0](https://github.com/ygcahyono/nanoclaw-v1.0)
 A WhatsApp-based voice and text journaling bot powered by LLMs. Lets users log daily habits, thoughts, and reflections through natural conversation, with structured data piped into a personal analytics dashboard for self-tracking insights.
 
 ### 🏅 [hackrefinitiv](https://github.com/ygcahyono/hackrefinitiv)
