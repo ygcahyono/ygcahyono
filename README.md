@@ -10,7 +10,7 @@
 ## 🎯 What I'm Focusing On
 
 - 🛒 Years of experience as Data Scientist (Product).
-- 🧠 Machine learning applications in B2C (Customer focused analysis).
+- 🧠 Machine learning applications in tech focused products
 - 🏆 Hackathons and competitive projects.
 - 📚 Completing my Master's dissertation on ESG news and volatility.
 - 📖 Loves to build app that boost our knowledge.
