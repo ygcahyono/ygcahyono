@@ -17,9 +17,6 @@
 
 ## 🚀 Recent Projects
 
-### 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [InSitu](https://github.com/ygcahyono/InSitu)
-InSitu is a personal English vocabulary learning tool that helps non-native English speakers learn words from documents they encounter in daily life - letters, emails, notices, and more.
-
 ### 🏅 [hackrefinitiv](https://github.com/ygcahyono/hackrefinitiv)
 Winner project from Refinitiv's International Inter-University Hackathon 2023. Built innovative solutions for financial data analysis.
 
